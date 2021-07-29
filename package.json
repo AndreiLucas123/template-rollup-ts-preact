@@ -1,7 +1,6 @@
 {
-  "name": "teste-preact-rollup-ts",
-  "version": "1.0.0",
-  "description": "",
+  "name": "template-rollup-ts-preact",
+  "version": "0.0.0",
   "main": "dist/index.js",
   "scripts": {
     "dev": "rollup -w -c",
