@@ -8,7 +8,7 @@ import serve from 'rollup-plugin-serve';
 const DEV = process.env.ROLLUP_WATCH === 'true';
 
 export default {
-  input: './src/main.tsx',
+  input: './src/index.tsx',
   output: {
     file: './public/build/bundle.js',
     format: 'esm',
